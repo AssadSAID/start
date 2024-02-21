@@ -1,0 +1,310 @@
+body{
+	background: black;
+}
+
+
+
+
+#a{
+ 	background:#783232;
+	height: 50px;
+	margin-top: -550px;
+	
+}
+#a ul {
+	margin-left: 60%;
+	color: white;
+}
+#a ul li{
+	list-style: none;
+	display: inline-block;
+	width: 40px;
+	height: 28px;
+	text-align: center;
+	padding-top: 10px;
+	padding-left: 10px;
+	margin-left: 20px ;
+}
+#a ul li:hover{
+	background: #a2ef0ade;
+	color:white;
+}
+#a ul li ul{
+	display: none;
+}
+#an{
+	list-style: none;
+	display: inline-block;
+	width: 40px;
+	height: 28px;
+	text-align: center;
+	padding-top: 10px;
+	padding-left: 10px;
+	margin-left: -220%;
+	margin-top: -1%;
+}
+#a ul li:hover ul{
+	display: block;
+}
+#a ul li ul li{
+	display: table-caption;
+	margin-left: -150%;
+	margin-top: 10%;
+}
+h5{
+	color: white;
+	padding-top: 10px;
+	position: absolute;
+}
+#r{
+	background: yellow;
+	width: 170px;
+	height: 200px;
+	position: absolute;
+	margin-left: 370px;
+	margin-top: 500px;
+}
+#w{
+	background: yellow;
+	width: 170px;
+	height: 200px;
+	position: absolute;
+	margin-left: 570px;
+	margin-top: 500px;
+}
+#e{
+	background: yellow;
+	width: 170px;
+	height: 200px;
+	position: absolute;
+	margin-left: 770px;
+	margin-top: 500px;
+}
+#q{
+	background: yellow;
+	width: 170px;
+	height: 200px;
+	position: absolute;
+	margin-left: 970px;
+	margin-top: 500px;
+}
+.a{
+	color: white;
+	position: absolute;
+	margin-top: 450px;
+	margin-left: 390px;
+
+
+}
+#qa{
+	color: white;
+	position: absolute;
+	margin-top: 10px;
+	margin-left: 5px;
+
+
+}
+#wa{
+	color: white;
+	position: absolute;
+	margin-top: 10px;
+	margin-left: 5px;
+
+
+}
+#ea{
+	color: white;
+	position: absolute;
+	margin-top: 10px;
+	margin-left: 5px;
+
+
+}
+#ra{
+	color: white;
+	position: absolute;
+	margin-top: 10px;
+	margin-left: 5px;
+
+
+}
+#t{
+	background: yellow;
+	width: 500px;
+	height: 600px;
+	position: absolute;
+	margin-left: 370px;
+	margin-top: 940px;
+}
+#tt{
+	position: absolute;
+	margin-left: 890px;
+	margin-top: 940px;
+	color: white;
+}
+.aa{
+	color: pink;
+	position: absolute;
+	margin-top: -35px;
+	width: 50px;
+}
+
+#aaa{
+	margin-top: 1590px;
+	color: white;
+	margin-left: 380px;
+}
+.zzz{
+   position: absolute;
+   margin-top: -35px;
+}
+#bbb{
+	  background: yellow;
+	width: 500px;
+	height: 430px;
+	position: absolute;
+	margin-left: 915px;
+	margin-top: -315px;
+	position: absolute;
+}
+#ccc{
+	margin-top: 155px;
+	color: pink;
+	margin-left: 355px;
+	position: absolute;
+}
+#rr{
+	background: yellow;
+	width: 170px;
+	height: 200px;
+	position: absolute;
+	margin-left: 00px;
+	margin-top: 0px;
+}
+#ww{
+	background: yellow;
+	width: 170px;
+	height: 200px;
+	position: absolute;
+	margin-left: 200px;
+	margin-top: 0px;
+}
+#ee{
+	background: yellow;
+	width: 170px;
+	height: 200px;
+	position: absolute;
+	margin-left: 400px;
+	margin-top: 00px;
+}
+#qq{
+	background: yellow;
+	width: 170px;
+	height: 200px;
+	position: absolute;
+	margin-left: 600px;
+	margin-top: 0px;
+}
+#rrrr{
+	background: yellow;
+	width: 170px;
+	height: 200px;
+	position: absolute;
+	margin-left: 00px;
+	margin-top: 320px;
+}
+#wwww{
+	background: yellow;
+	width: 170px;
+	height: 200px;
+	position: absolute;
+	margin-left: 200px;
+	margin-top: 320px;
+}
+#eeee{
+	background: yellow;
+	width: 170px;
+	height: 200px;
+	position: absolute;
+	margin-left: 400px;
+	margin-top: 320px;
+}
+#qqqq{
+	background: yellow;
+	width: 170px;
+	height: 200px;
+	position: absolute;
+	margin-left: 600px;
+	margin-top: 320px;
+}
+#qqa{
+	color: white;
+	position: absolute;
+	margin-top: 10px;
+	margin-left: 5px;
+
+
+}
+#wwa{
+	color: white;
+	position: absolute;
+	margin-top: 10px;
+	margin-left: 5px;
+
+
+}
+#eea{
+	color: white;
+	position: absolute;
+	margin-top: 10px;
+	margin-left: 5px;
+
+
+}
+#rra{
+	color: white;
+	position: absolute;
+	margin-top: 10px;
+	margin-left: 5px;
+
+
+}
+
+
+#qqqa{
+	color: white;
+	position: absolute;
+	margin-top: 10px;
+	margin-left: 5px;
+
+
+}
+#wwwa{
+	color: white;
+	position: absolute;
+	margin-top: 10px;
+	margin-left: 5px;
+
+
+}
+#eeea{
+	color: white;
+	position: absolute;
+	margin-top: 10px;
+	margin-left: 5px;
+
+
+}
+#rrra{
+	color: white;
+	position: absolute;
+	margin-top: 10px;
+	margin-left: 5px;
+
+
+}
+#ttt{
+	margin-left: 355px;
+	position: absolute;
+	margin-top: 200px;
+}
