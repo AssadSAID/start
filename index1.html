@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Itinéraire Touristique Madagascar</title>
+  <!-- Lien CDN Bootstrap -->
+  <link href="css/bootstrap.min.css" rel="stylesheet">
+
+  <style>
+    /* Styles personnalisés */
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f4f4f4;
+    }
+    header {
+      background-color: #007BFF;
+      color: white;
+      text-align: center;
+      padding: 20px;
+    }
+    .carousel-item img {
+      width: 100%;
+      height: 500px;
+      object-fit: cover;
+    }
+    footer {
+      background-color: #007BFF;
+      color: white;
+      padding: 10px;
+      text-align: center;
+    }
+  </style>
+</head>
+<body>
+
+  <!-- En-tête -->
+  <header>
+    <h1>Découvrez Madagascar avec notre service de voiture et chauffeur</h1>
+    <p>Profitez d'un service personnalisé pour vos visites touristiques.</p>
+  </header>
+
+  <!-- Carrousel de photos -->
+  <div id="carouselExampleAutoplaying" class="carousel slide carousel-fade" data-bs-ride="carousel">
+    <div class="carousel-inner">
+      <div class="carousel-item active">
+        <img src="img/im1.jpg" class="d-block w-100" alt="Photo 1">
+      </div>
+      <div class="carousel-item">
+        <img src="img/im2.jpg" class="d-block w-100" alt="Photo 2">
+      </div>
+      <div class="carousel-item">
+        <img src="img/im3.webp" class="d-block w-100" alt="Photo 3">
+      </div>
+    </div>
+    <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleAutoplaying" data-bs-slide="prev">
+      <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+      <span class="visually-hidden">Précédent</span>
+    </button>
+    <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleAutoplaying" data-bs-slide="next">
+      <span class="carousel-control-next-icon" aria-hidden="true"></span>
+      <span class="visually-hidden">Suivant</span>
+    </button>
+  </div>
+
+  <!-- Itinéraire -->
+  <section class="container mt-5">
+    <h2 class="text-center">Itinéraire de 3 jours</h2>
+
+    <div class="card mb-4">
+      <div class="card-body">
+        <h5 class="card-title">Jour 1 : Nosy Be → Ankify → Ambanja</h5>
+        <p>Visite de la ville d'Ambanja avec des arrêts pour découvrir les plantations de cacao et de vanille.</p>
+        <p><strong>Durée du trajet :</strong> 1h30 à 2h.</p>
+      </div>
+    </div>
+
+    <div class="card mb-4">
+      <div class="card-body">
+        <h5 class="card-title">Jour 2 : Ankify → Port-Bergé → Ankarafantsika</h5>
+        <p>Exploration du parc national d’Ankarafantsika avec ses forêts tropicales et ses lémuriens.</p>
+        <p><strong>Durée du trajet :</strong> 2 à 3 heures.</p>
+      </div>
+    </div>
+
+    <div class="card mb-4">
+      <div class="card-body">
+        <h5 class="card-title">Jour 3 : Ankarafantsika → Antsohihy → Réserve Spéciale d’Anjanaharibe-Sud</h5>
+        <p>Long trajet vers la réserve d’Anjanaharibe-Sud pour découvrir la faune unique de la région.</p>
+        <p><strong>Durée du trajet :</strong> 6 à 7 heures (routes difficiles).</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer>
+    <p>Pour réserver, contactez-nous à <strong>contact@tourismemadagascar.com</strong> ou au <strong>(+261) 34 12 34 56</strong>.</p>
+  </footer>
+
+  <!-- Lien CDN Bootstrap JS et Popper.js -->
+  <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.6/dist/umd/popper.min.js"></script>
+  <script src="js/bootstrap.min.js"></script>
+</body>
+</html>
